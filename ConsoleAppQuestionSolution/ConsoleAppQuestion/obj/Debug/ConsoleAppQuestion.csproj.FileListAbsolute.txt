@@ -1,0 +1,7 @@
+C:\Users\kaysh\OneDrive\Desktop\Work\c# works\Spl_Day2\Question\ConsoleAppQuestionSolution\ConsoleAppQuestion\bin\Debug\ConsoleAppQuestion.exe.config
+C:\Users\kaysh\OneDrive\Desktop\Work\c# works\Spl_Day2\Question\ConsoleAppQuestionSolution\ConsoleAppQuestion\bin\Debug\ConsoleAppQuestion.exe
+C:\Users\kaysh\OneDrive\Desktop\Work\c# works\Spl_Day2\Question\ConsoleAppQuestionSolution\ConsoleAppQuestion\bin\Debug\ConsoleAppQuestion.pdb
+C:\Users\kaysh\OneDrive\Desktop\Work\c# works\Spl_Day2\Question\ConsoleAppQuestionSolution\ConsoleAppQuestion\obj\Debug\ConsoleAppQuestion.csprojAssemblyReference.cache
+C:\Users\kaysh\OneDrive\Desktop\Work\c# works\Spl_Day2\Question\ConsoleAppQuestionSolution\ConsoleAppQuestion\obj\Debug\ConsoleAppQuestion.csproj.CoreCompileInputs.cache
+C:\Users\kaysh\OneDrive\Desktop\Work\c# works\Spl_Day2\Question\ConsoleAppQuestionSolution\ConsoleAppQuestion\obj\Debug\ConsoleAppQuestion.exe
+C:\Users\kaysh\OneDrive\Desktop\Work\c# works\Spl_Day2\Question\ConsoleAppQuestionSolution\ConsoleAppQuestion\obj\Debug\ConsoleAppQuestion.pdb
